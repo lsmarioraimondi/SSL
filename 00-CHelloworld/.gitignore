@@ -1,0 +1,25 @@
+# Archivos objeto (intermedios de compilación)
+*.o
+*.obj
+
+# Archivos ejecutables
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Carpetas de compilación comunes
+/build/
+/bin/
+/debug/
+/release/
+
+# Archivos de log o temporales
+*.log
+*.tmp
+*~
+*.swp
+
+# Archivos de backup de editores
+*.bak
