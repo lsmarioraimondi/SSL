@@ -1,13 +1,13 @@
 # Sintaxis y Semántica de los Lenguajes
 
-**Numero de equipo:** A confirmar
-**Autor de la resolucion:** Luca Smario Raimondi
-**Usuario Github:** lsmarioraimondi
+**Numero de equipo:** A confirmar  
+**Autor de la resolucion:** Luca Smario Raimondi  
+**Usuario Github:** lsmarioraimondi  
 **Legajo:** 220.885-4  
-**Apellido:** Smario Raimondi  \
+**Apellido:** Smario Raimondi  
 **Nombre:** Luca  
-**Numero y titulo del trabajo:** Trabajo N°0: "Hello, World!" en C
-**Enunciado:** 
+**Numero y titulo del trabajo:** Trabajo N°0: "Hello, World!" en C  
+**Enunciado:**  
 1. **Cuenta en GitHub**  
    a. Si no tiene, cree una cuenta GitHub.  
    b. Si no lo hizo, asocie a su cuenta GitHub el email @frba y verifique. Es posible asociar más de una cuenta email a una cuenta GitHub.  
